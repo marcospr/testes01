@@ -1,1 +1,2 @@
 teste com stash create arquivo02.txt, outro usuario mexeu aqui, nova change.
+eu alterei
