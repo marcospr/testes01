@@ -3,3 +3,4 @@ teste com stash change arquivo01.txt, outro usuario mexeu aqui, nova change.
 alteracao add 1
 alteracao add 2
 alteracao add 3
+Outro usuario alterou
