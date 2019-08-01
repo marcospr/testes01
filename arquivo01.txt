@@ -2,3 +2,5 @@ arquivo01
 outro usuario alterou
 master altera 2x
 outro usuario alterou
+teste com rebase remote
+
