@@ -1,3 +1,2 @@
-outro usuario limpou
-teste com stash change arquivo_novo.txt
+Novo
 
